@@ -1,0 +1,13 @@
+{
+  "name": "shahan-tariq-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Shahan Tariq, Social Media Marketer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Shahan Tariq",
+  "license": "ISC",
+  "dependencies": {}
+}
